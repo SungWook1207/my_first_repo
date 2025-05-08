@@ -4,3 +4,5 @@
 
 1. Name
 - Sung Wook Yoo
+
+UserInfo is implemented!
