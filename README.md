@@ -6,3 +6,6 @@
 - Sung Wook Yoo
 
 UserInfo is implemented!
+
+I implemented navbar
+
